@@ -3,6 +3,6 @@
 # 2 - CN/HK Server
 # 3 - IT/EU Server
 
-Server = http://dlcdn2.thevakhovske.pw/$repo/os/$arch
+# Server = http://dlcdn2.thevakhovske.pw/$repo/os/$arch
 Server = http://dl.thevakhovske.pw/$repo/os/$arch
-Server = http://holoiso.itsvixano.me/$repo/os/$arch
+# Server = http://holoiso.itsvixano.me/$repo/os/$arch
